@@ -1,1 +1,2 @@
-
+The test*.h5 and train*.h5 files have the test and train data sets. Paste them in same folder to extract. 
+If using google colab, add to the root folder of the drive and the code directly picks up these from google drive root folder and populates the train and tests sets. 
